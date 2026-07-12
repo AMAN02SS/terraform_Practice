@@ -4,3 +4,9 @@ variable "resource_group" {
         prod = "West Europe"
     }
 }
+
+
+#### with out for each Example : -------------------------------------------------------------------------------------->
+# variable "rg_location" {
+#   default = "Central India"
+# }
